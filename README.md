@@ -16,6 +16,3 @@
 
 > [!WARNING]  
 > Requires `pip install numpy` `pip install pillow`
-
-# Pure ASCII (White)
-![image](https://github.com/user-attachments/assets/e4906759-5dfd-43aa-a742-b05d2807156d)
