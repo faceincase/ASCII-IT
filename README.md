@@ -16,7 +16,7 @@ After (Quality: 2)            |  After (Quality: 16)
 
 Other renders              |  
 :-------------------------:|
- Joker (Quality: 8) <br> https://github.com/user-attachments/assets/6a020151-c009-47d0-908d-c35e68f62222 |
+ Joker (Quality: 8) https://github.com/user-attachments/assets/6a020151-c009-47d0-908d-c35e68f62222 |
 Joker (Quality: 2) <br> https://github.com/user-attachments/assets/b4f3bada-f3af-4f9c-86a0-d0bd5e3ecc28  |
  Abc <br> <img src="" width="700">  |
 
