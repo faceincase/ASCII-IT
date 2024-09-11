@@ -16,11 +16,17 @@ After (Quality: 2)            |  After (Quality: 16)
 
 # Other renders
 
-Joker (Quality: 8)
+Joker (Quality: 8) (with audio)
+
 https://github.com/user-attachments/assets/6a020151-c009-47d0-908d-c35e68f62222
 
-Joker (Quality: 2)
+Joker (Quality: 2) (with audio)
+
 https://github.com/user-attachments/assets/b4f3bada-f3af-4f9c-86a0-d0bd5e3ecc28
+
+
+
+
 
 
 </div>
