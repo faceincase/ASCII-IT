@@ -11,7 +11,7 @@
 
 Solarized dark             |  Solarized Ocean
 :-------------------------:|:-------------------------:
-<img src="<https://github.com/user-attachments/assets/658a14f2-feb5-44cc-b6ae-44287e3e23b5">  alt="wallpaper" width="500"/>  |  ![gojo](https://github.com/user-attachments/assets/ccc6ecc3-5feb-4fb3-acd0-b98a96222f09)
+![wallpaper](https://github.com/user-attachments/assets/658a14f2-feb5-44cc-b6ae-44287e3e23b5)  |  ![gojo](https://github.com/user-attachments/assets/ccc6ecc3-5feb-4fb3-acd0-b98a96222f09)
 
 # Processed image (After)
 ![wallpaper jpg_1_IMAGE](https://github.com/user-attachments/assets/fffe4a4e-fb58-49e2-8061-33d2e9299831)
