@@ -9,6 +9,7 @@
 ![wallpaper](https://github.com/user-attachments/assets/658a14f2-feb5-44cc-b6ae-44287e3e23b5)
 # Processed image (After)
 ![wallpaper jpg_1_IMAGE](https://github.com/user-attachments/assets/fffe4a4e-fb58-49e2-8061-33d2e9299831)
+! Brightness can be easily adjusted.
 # Zoom
 ![image](https://github.com/user-attachments/assets/ab78f9c6-6e75-40a0-9692-ca3a29b869d0)
 
