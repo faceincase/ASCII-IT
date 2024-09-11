@@ -9,7 +9,7 @@
 ![wallpaper](https://github.com/user-attachments/assets/658a14f2-feb5-44cc-b6ae-44287e3e23b5)
 ![gojo](https://github.com/user-attachments/assets/ccc6ecc3-5feb-4fb3-acd0-b98a96222f09)
 
-Solarized dark             |  Solarized Ocean
+Before             |  Before
 :-------------------------:|:-------------------------:
  <img src="https://github.com/user-attachments/assets/658a14f2-feb5-44cc-b6ae-44287e3e23b5" width="500">  |   <img src="https://github.com/user-attachments/assets/ccc6ecc3-5feb-4fb3-acd0-b98a96222f09" width="500">
 
