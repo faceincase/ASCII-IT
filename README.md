@@ -16,8 +16,8 @@ After (Quality: 2)            |  After (Quality: 16)
 
 Other renders              |  
 :-------------------------:|
- Abc <img src="" width="700">  |   
- Abc <img src="" width="700">  |  
+ Abc <br> <img src="" width="700">  |   
+ Abc <br> <img src="" width="700">  |  
 
 </div>
 
