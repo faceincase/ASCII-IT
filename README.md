@@ -12,7 +12,7 @@
 # Zoom
 ![image](https://github.com/user-attachments/assets/ab78f9c6-6e75-40a0-9692-ca3a29b869d0)
 
-
+</div>
 
 > [!WARNING]  
 > Requires `pip install numpy` `pip install pillow`
