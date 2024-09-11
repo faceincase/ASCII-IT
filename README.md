@@ -13,6 +13,8 @@ Solarized dark             |  Solarized Ocean
 :-------------------------:|:-------------------------:
 ![wallpaper](https://github.com/user-attachments/assets/658a14f2-feb5-44cc-b6ae-44287e3e23b5)  |  ![gojo](https://github.com/user-attachments/assets/ccc6ecc3-5feb-4fb3-acd0-b98a96222f09)
 
+ <img src="[url](https://github.com/user-attachments/assets/658a14f2-feb5-44cc-b6ae-44287e3e23b5)" alt="alt text" width="100" height="100">
+
 # Processed image (After)
 ![wallpaper jpg_1_IMAGE](https://github.com/user-attachments/assets/fffe4a4e-fb58-49e2-8061-33d2e9299831)
 Brightness can be easily adjusted.
