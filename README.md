@@ -15,7 +15,7 @@ After             |  After
 
 Zoom             |  Zoom
 :-------------------------:|:-------------------------:
- <img src="https://github.com/user-attachments/assets/ab78f9c6-6e75-40a0-9692-ca3a29b869d0" width="500">  |   <img src="https://github.com/user-attachments/assets/8b3659d0-e054-458d-a8e1-cdcfb5c3f657" width="500">
+ <img src="https://github.com/user-attachments/assets/ab78f9c6-6e75-40a0-9692-ca3a29b869d0" width="500">  |   <img src="https://github.com/user-attachments/assets/c43809a8-f77e-45d5-ba48-6e70bcd99728" width="500">
 
 </div>
 
