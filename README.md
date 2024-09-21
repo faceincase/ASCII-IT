@@ -4,6 +4,8 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 <br>
+<h3> Images appear darker due to ASCII characters not filling 100% of the "pixel" space and the console's black background.  </h3>
+<br>
 
 Before             |  Before
 :-------------------------:|:-------------------------:
